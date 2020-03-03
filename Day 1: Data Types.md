@@ -46,7 +46,7 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
             scan.nextLine();
             str = scan.nextLine();
             System.out.println(i+a);
-    		System.out.println(d+b);
+    	    System.out.println(d+b);
             System.out.println(s+str);
             scan.close();
         }
